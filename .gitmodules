@@ -1,0 +1,4 @@
+[submodule "backend"]
+	path = mobile/src/backend
+	url = https://github.com/UnknwnDev/Aria
+
