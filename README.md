@@ -1,49 +1,16 @@
-# Aria - Your Virtual Assistant
+# aria
 
-Welcome to Aria, your personal virtual assistant designed to help you with various tasks and improve your productivity. Aria is built using Python and offers a range of features to assist you in your daily activities.
+A new Flutter project.
 
-## Features (W.I.P.)
+## Getting Started
 
-- Task management
-- Scheduling and reminders
-- Information retrieval
-- Customizable commands
+This project is a starting point for a Flutter application.
 
-<!-- ## Getting Started
+A few resources to get you started if this is your first Flutter project:
 
-To get started with Aria, follow the installation instructions below and explore the available commands to see how Aria can assist you.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## Installation
-
-### Android
-
-1. Download the APK file from our [releases page](https://github.com/yourusername/Aria-App/releases).
-2. Open the APK file on your Android device and follow the installation prompts.
-
-### iOS
-
-1. Download the app from the [App Store](https://www.apple.com/app-store/).
-2. Open the app on your iOS device and follow the installation prompts.
-
-### Web Application
-
-1. Visit our [web application](https://aria-app.com).
-2. Sign up or log in to start using Aria.
-
-## Usage
-
-Run the application on your preferred platform and explore the available commands to see how Aria can assist you. -->
-<!-- 
-## Contributing
-
-We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. -->
-
-## Contact
-
-For any questions or feedback, please contact us at 0unknwn.dev@gmail.com.
-
-Enjoy using Aria!
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
