@@ -1,4 +1,4 @@
-# aria
+# Aria
 
 A new Flutter project.
 
